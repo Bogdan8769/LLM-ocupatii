@@ -1,0 +1,92 @@
+[
+  {
+    "id": "DEV-JNR-01",
+    "titlu": "Programator Junior (Backend / Generalist)",
+    "cor": "251202",
+    "esco_uri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+    "competente_esco": ["Java", "Python", "scriere cod de bază", "MySQL", "rezolvare de bug-uri simple"],
+    "sfia_nivel_necesar": 2,
+    "descriere_sfia": "Aplică proceduri standard în dezvoltare, necesită asistență ocazională, lucrează sub supervizare directă pentru implementarea funcționalităților."
+  },
+  {
+    "id": "SYS-ENG-02",
+    "titlu": "Inginer de Sistem Software",
+    "cor": "251203",
+    "esco_uri": "http://data.europa.eu/esco/occupation/93cb1a4a-1014-46bb-84fa-b50a0494eb7c",
+    "competente_esco": ["C++", "C", "Bash", "dezvoltare la nivel de sistem de operare", "managementul memoriei"],
+    "sfia_nivel_necesar": 4,
+    "descriere_sfia": "Lucrează cu autonomie pe proiecte low-level, investighează probleme de sistem, contribuie la optimizarea performanței de bază."
+  },
+  {
+    "id": "AUT-TEH-03",
+    "titlu": "Tehnician Dezvoltator Sisteme de Automatizare",
+    "cor": "311402",
+    "esco_uri": "http://data.europa.eu/esco/occupation/1a812ba3-e027-4638-900f-e62a34fc3e59",
+    "competente_esco": ["programare PLC", "senzori", "scripturi de automatizare", "depanare circuite", "integrare hardware-software"],
+    "sfia_nivel_necesar": 3,
+    "descriere_sfia": "Implementează și testează soluții de automatizare pe baza specificațiilor, lucrând independent pe sarcini tehnice bine definite."
+  },
+  {
+    "id": "ROB-DEV-04",
+    "titlu": "Dezvoltator Software Robotică și Sisteme Autonome",
+    "cor": "215101",
+    "esco_uri": "http://data.europa.eu/esco/occupation/85d6e2e5-7977-4404-8b83-a44b4b4eb34a",
+    "competente_esco": ["algoritmi de rutare", "C++", "Python", "procesare semnale", "navigație autonomă"],
+    "sfia_nivel_necesar": 4,
+    "descriere_sfia": "Proiectează algoritmi complecși (ex. pentru drone/vehicule), având responsabilitate tehnică pe module specifice de navigație și control."
+  },
+  {
+    "id": "GAME-DEV-05",
+    "titlu": "Programator Jocuri Video (Game Developer)",
+    "cor": "251204",
+    "esco_uri": "http://data.europa.eu/esco/occupation/b06f8c4e-53e7-4f6c-824c-1d382759e35c",
+    "competente_esco": ["C++", "Lua", "dezvoltare logică de joc", "fizică aplicată în simulări", "motoare grafice"],
+    "sfia_nivel_necesar": 3,
+    "descriere_sfia": "Dezvoltă mecanici de joc și sisteme interactive, colaborând cu echipe de design și folosind framework-uri specifice industriei de gaming."
+  },
+  {
+    "id": "DBA-06",
+    "titlu": "Administrator Baze de Date",
+    "cor": "252101",
+    "esco_uri": "http://data.europa.eu/esco/occupation/8a72a71d-5b12-4211-a83a-86fa0c422c54",
+    "competente_esco": ["MySQL", "administrare baze de date", "optimizare interogări SQL", "securitatea datelor"],
+    "sfia_nivel_necesar": 4,
+    "descriere_sfia": "Menține integritatea, performanța și securitatea bazelor de date, planificând backup-uri și optimizând arhitecturile de stocare."
+  },
+  {
+    "id": "QA-AUTO-07",
+    "titlu": "Inginer Testare Automată (QA Automation)",
+    "cor": "251101",
+    "esco_uri": "http://data.europa.eu/esco/occupation/25f822fa-9e32-474c-8820-258055ee1cb2",
+    "competente_esco": ["Python", "testare automată", "scriere scripturi de testare", "identificare defecte software"],
+    "sfia_nivel_necesar": 3,
+    "descriere_sfia": "Creează și execută suite de teste automate, raportează bug-urile sistematic și asigură calitatea codului înainte de lansare."
+  },
+  {
+    "id": "ARH-SNR-08",
+    "titlu": "Arhitect Software (Senior)",
+    "cor": "252201",
+    "esco_uri": "http://data.europa.eu/esco/occupation/5bd0175b-1c5c-4861-bf92-0b61f9d5019a",
+    "competente_esco": ["design de sistem", "arhitectură software", "microservicii", "Java", "coordonare tehnică"],
+    "sfia_nivel_necesar": 6,
+    "descriere_sfia": "Definește arhitectura generală a sistemelor complexe, ia decizii tehnice strategice și ghidează echipele de dezvoltatori."
+  },
+  {
+    "id": "DATA-ANL-09",
+    "titlu": "Analist Date (Data Analyst)",
+    "cor": "251102",
+    "esco_uri": "http://data.europa.eu/esco/occupation/12204c32-e038-4034-a15d-075e7a93c76d",
+    "competente_esco": ["Python", "SQL", "curățare date", "analiză statistică", "vizualizare date"],
+    "sfia_nivel_necesar": 3,
+    "descriere_sfia": "Extrage, procesează și interpretează seturi de date pentru a oferi informații structurate, lucrând sub obiective analitice clare."
+  },
+  {
+    "id": "DEVOPS-10",
+    "titlu": "Inginer DevOps",
+    "cor": "252301",
+    "esco_uri": "http://data.europa.eu/esco/occupation/a3b1a804-030a-48a0-b5bc-13177651cfa8",
+    "competente_esco": ["Bash", "administrare Linux", "integrare continuă (CI/CD)", "automatizare infrastructură", "rețelistică"],
+    "sfia_nivel_necesar": 4,
+    "descriere_sfia": "Gestionează fluxul de lansare a codului, automatizează procesele de deployment și menține infrastructura operațională stabilă."
+  }
+]
